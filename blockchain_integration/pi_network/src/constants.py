@@ -2,7 +2,7 @@
 
 # Pi Coin Configuration
 PI_COIN_SYMBOL = "PI"
-PI_COIN_VALUE = 314159.00  # Fixed value of Pi Coin in USD
+PI_COIN_VALUE = 0.0000000001  # Fixed value of Pi Coin in USD
 PI_COIN_SUPPLY = 100_000_000_000  # Total supply of Pi Coin
 PI_COIN_DYNAMIC_SUPPLY = False  # Disable dynamic supply adjustments for stability
 
